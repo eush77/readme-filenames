@@ -1,0 +1,35 @@
+{
+  "name": "readme-filenames",
+  "version": "0.0.0",
+  "description": "Common names of README files",
+  "author": "Eugene Sharygin <eush77@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.json"
+  ],
+  "homepage": "https://github.com/eush77/readme-filenames",
+  "repository": "eush77/readme-filenames",
+  "bugs": {
+    "url": "https://github.com/eush77/readme-filenames/issues"
+  },
+  "keywords": [
+    "basename",
+    "common",
+    "extension",
+    "file",
+    "filename",
+    "help",
+    "manual",
+    "md",
+    "project",
+    "readme",
+    "readme.markdown",
+    "readme.md",
+    "readme.txt",
+    "software",
+    "tradition",
+    "txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
