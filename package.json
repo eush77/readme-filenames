@@ -4,6 +4,9 @@
   "description": "Common names of README files",
   "author": "Eugene Sharygin <eush77@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
   "files": [
     "index.json"
   ],
@@ -31,5 +34,7 @@
     "txt"
   ],
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "tape": "^4.0.3"
+  }
 }
